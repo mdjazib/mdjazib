@@ -1,154 +1,34 @@
-<h1 align="center">Hey, I'm Muhammad Jazib 👋</h1>
-
-<p align="center">
-Entrepreneur • Full Stack Developer
-</p>
-
-<p align="center">
-Building products that solve real problems, not projects that collect dust.
-</p>
+<h1 align="center">Muhammad Jazib Erdem</h1>
+<p align="center">Building things people pay for. Not portfolios — products.</p>
 
 ---
 
-## About Me
+### Currently
 
-I'm a Pakistani entrepreneur who believes that one idea can change someone's life.
-
-Over the years I've designed, developed and launched products from scratch, made mistakes, rebuilt everything, and learned that the hardest part isn't writing code.
-
-It's believing in something before anyone else does.
-
-Today I'm focused on building products that empower creators, businesses and communities.
-
-Currently building:
-
-- 🚀 **FormPay** — Create Forms. Collect Payments.
-- 🌐 **VebEdge** — Desinging, Development & Marketing Services.
-- 💡 Always exploring the next meaningful problem worth solving.
-
-I enjoy wearing multiple hats.
-
-Sometimes I'm writing backend APIs.
-
-Sometimes I'm designing interfaces.
-
-Sometimes I'm talking to customers.
-
-Sometimes I'm just staring at a notebook trying to find the next idea.
-
-That's entrepreneurship.
+- **FormPay** — forms that collect payments. [formpay.co](https://formpay.co)
+- **VebEdge** — design, dev, marketing for people who'd rather ship than talk about shipping. [vebedge.com](https://vebedge.com)
 
 ---
 
-## What I Believe
+### The short version
 
-> Don't build because you can.
+Pakistani founder. Started by writing code, kept going because I liked watching ideas turn into things strangers use without asking why.
 
-> Build because someone genuinely needs it.
-
-Technology should simplify life.
-
-Design should feel invisible.
-
-Businesses should create value before creating profit.
-
-Success isn't measured by how many repositories you have.
-
-It's measured by how many lives your work improves.
+Most of what I've built has failed quietly. A couple of things didn't.
+I stopped counting repos a while ago — they were never the point.
 
 ---
 
-## Outside of Code
+### Stack
 
-When I'm away from my laptop you'll probably find me:
-
-☕ Drinking coffee
-
-📚 Reading books
-
-✍️ Writing poetry
-
-🎨 Designing interfaces
-
-📖 Learning something I knew nothing about yesterday
-
-🌅 Watching sunsets and thinking about the next chapter
-
-I believe creativity doesn't start with code.
-
-It starts with curiosity.
+`Next.js` `React` `TypeScript` `Node.js` `Express` `Laravel` `PostgreSQL` `MongoDB` `Figma` `Docker`
 
 ---
 
-## Tech I Enjoy Working With
+### Elsewhere
 
-**Frontend**
-
-Next.js • React • TypeScript • JavaScript • HTML • CSS • Sass
-
-**Backend**
-
-Node.js • Express • PHP • Laravel • REST APIs
-
-**Databases**
-
-MongoDB • MySQL • PostgreSQL
-
-**Design**
-
-Figma • UI/UX • Branding • Product Design
-
-**Other**
-
-Git • Docker • Vercel • Cloud Services • SEO • Product Strategy
+📷 [@itxmuhammadjazib](https://instagram.com/itxmuhammadjazib)
 
 ---
 
-## Current Focus
-
-- Building products that can scale globally.
-- Creating software with meaningful user experience.
-- Helping startups move from idea to reality.
-- Learning something new every single day.
-
----
-
-## A Small Reminder
-
-If you're reading this and you're afraid to start...
-
-Start anyway.
-
-Your first version won't be perfect.
-
-Neither was mine.
-
-Every great product once looked unfinished.
-
-Every founder once had zero users.
-
-Every success started as an idea nobody believed in.
-
-Keep building.
-
----
-
-## Let's Connect
-
-- 🌐 https://formpay.co
-- 🌐 https://vebedge.com
-- 📷 Instagram: https://instagram.com/itxmuhammadjazib
-
----
-
-<p align="center">
-
-*"Dreams become products.*
-
-*Products become companies.*
-
-*Companies become stories.*
-
-*It all starts with one person deciding to build."*
-
-</p>
+<p align="center"><sub>Still building. Ask me in a year what's different.</sub></p>
