@@ -1,5 +1,5 @@
 <h1 align="center">Muhammad Jazib</h1>
-<p align="center">Entrepreneur. Building things people pay for, not portfolios that collect stars.</p>
+<p align="center">Entrepreneur. Building things people pay for.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-building-black?style=flat-square" />
@@ -10,10 +10,10 @@
 
 ### Currently
 
-**FormPay** — forms that collect payments.
+**FormPay:** forms that collect payments.
 [formpay.co](https://formpay.co)
 
-**VebEdge** — design, development and marketing for people who'd rather ship than talk about shipping.
+**VebEdge:** design, development and marketing for people who'd rather ship than talk about shipping.
 [vebedge.com](https://vebedge.com)
 
 ---
@@ -21,8 +21,6 @@
 ### The short version
 
 I write code, but that's not really the job. The job is noticing a problem enough people have and being stubborn enough to sit with it until something real comes out the other side.
-
-Most of what I've built has failed quietly. A couple of things didn't. I stopped counting repos a while ago, they were never the point.
 
 ---
 
@@ -53,7 +51,3 @@ Curiosity is the only skill I've never had to force.
 ### Elsewhere
 
 📷 [@itxmuhammadjazib](https://instagram.com/itxmuhammadjazib)
-
----
-
-<p align="center"><sub>Still building. Ask me in a year what's different.</sub></p>
