@@ -10,10 +10,10 @@
 
 ### Currently
 
-**FormPay:** forms that collect payments.
+**FormPay:** Create Forms. Collect Payments.
 [formpay.co](https://formpay.co)
 
-**VebEdge:** design, development and marketing for people who'd rather ship than talk about shipping.
+**VebEdge:** Design, Development and Marketing agency.
 [vebedge.com](https://vebedge.com)
 
 ---
@@ -43,7 +43,6 @@ Curiosity is the only skill I've never had to force.
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
