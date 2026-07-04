@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Muhammad Jazib 👋</h1>
 
 <p align="center">
-Founder • Entrepreneur • Full Stack Developer • Product Designer
+Entrepreneur • Full Stack Developer
 </p>
 
 <p align="center">
@@ -22,8 +22,8 @@ Today I'm focused on building products that empower creators, businesses and com
 
 Currently building:
 
-- 🚀 **FormPay** — Making forms valuable, not disposable.
-- 🌐 **VebEdge** — Turning ideas into digital products and businesses.
+- 🚀 **FormPay** — Create Forms. Collect Payments.
+- 🌐 **VebEdge** — Desinging, Development & Marketing Services.
 - 💡 Always exploring the next meaningful problem worth solving.
 
 I enjoy wearing multiple hats.
