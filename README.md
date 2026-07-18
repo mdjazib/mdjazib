@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Jazib</h1>
+<h1 align="center">Muhammad Jazib Erdem</h1>
 <p align="center">Entrepreneur. Building things people pay for.</p>
 
 <p align="center">
