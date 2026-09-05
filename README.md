@@ -10,7 +10,7 @@
 
 ### Currently
 
-**Mettle & Co.:** Software company building products and digital solutions for ambitious businesses.
+**Mettle & Co:** Software company building products and digital solutions for ambitious businesses.
 [mettleand.co](https://mettleand.co)
 
 **FormPay:** Create Forms. Collect Payments.
