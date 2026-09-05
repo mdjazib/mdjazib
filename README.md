@@ -10,17 +10,19 @@
 
 ### Currently
 
+**Mettle & Co.:** Software company building products and digital solutions for ambitious businesses.
+[mettleand.co](https://mettleand.co)
+
 **FormPay:** Create Forms. Collect Payments.
 [formpay.co](https://formpay.co)
-
-**VebEdge:** Design, Development and Marketing agency.
-[vebedge.com](https://vebedge.com)
 
 ---
 
 ### The short version
 
 They say fall in love with the problem, not the solution.
+
+I build, break, learn, and build again.
 
 ---
 
